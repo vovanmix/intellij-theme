@@ -1,4 +1,4 @@
-<scheme name="Darcula mine" version="142" parent_scheme="Darcula">
+<scheme name="Intellij Dark theme" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <console-font>
